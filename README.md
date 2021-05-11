@@ -8,7 +8,7 @@ My First Repository on Github
 - breadboard
 - Jumper wires
 - 9V battery
-- Battery connecor
+- Battery connector
 
 # Software Required
 - Arduino IDE
